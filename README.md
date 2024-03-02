@@ -7,3 +7,8 @@ Usefull links regarding Albumentation.
 	3.https://albumentations.ai/docs/api_reference/augmentations/crops/transforms/
 
 
+Different Labels:
+	1. undamagedcommercialbuilding
+	2. damagedcommercialbuilding
+	3. undamagedresidentialbuilding
+	4. damagedresidentialbuilding
