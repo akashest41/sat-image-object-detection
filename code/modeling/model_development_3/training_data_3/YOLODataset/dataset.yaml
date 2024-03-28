@@ -1,0 +1,4 @@
+train: ./training_data_3/YOLODataset/images/train/
+val: ./training_data_3/YOLODataset/images/val/
+nc: 4
+names: ["undamagedresidentialbuilding", "damagedresidentialbuilding", "undamagedcommercialbuilding", "damagedcommercialbuilding"]
